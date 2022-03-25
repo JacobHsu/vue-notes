@@ -1,5 +1,7 @@
 ## pinia
 
+Pinia 就是 Vuex 的替代版，可以更好的兼容 Vue2，Vue3以及TypeScript。在Vuex的基礎上去掉了 `Mutation`，只保留了 state, getter和action。Pinia擁有更簡潔的語法，扁平化的代碼編排，符合Vue3的 Composition api
+
 相對於以前的 vuex，pinia具有以下優勢
 
 * 更簡單的寫法，代碼更清晰簡潔，支持 composition api 和 options api 語法
