@@ -3,7 +3,7 @@
 -----------------
 
 <p align="center">
-    <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
+    <img alt="Git" src="https://raw.githubusercontent.com/flyhigher139/Git-Cheat-Sheet/master/Img/git-logo.png" height="190" width="455">
 </p>
 
 ------------------
