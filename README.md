@@ -20,3 +20,7 @@ deploy: [gh-pages actions](https://github.com/JacobHsu/hello-vue3/commit/402b6d1
 ## Visual Studio Code
 
 [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+
+## References
+
+[Vue.js 挑战](https://cn-vuejs-challenges.netlify.app/)
