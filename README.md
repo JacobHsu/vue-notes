@@ -23,6 +23,7 @@ deploy: [gh-pages actions](https://github.com/JacobHsu/hello-vue3/commit/402b6d1
 
 ## Editor
 
+[Vue SFC Playground](https://sfc.vuejs.org/)  
 [StackBlitz](https://stackblitz.com/) | Instant Dev Environments
 
 ## References
