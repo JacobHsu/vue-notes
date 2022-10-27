@@ -8,3 +8,5 @@ fibers.node` is missing win32-x64-93
 
 node_modules\fibers\bin `win32-x64-93`
 
+[vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)  
+基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。  
