@@ -1,5 +1,11 @@
 # NPM
 
+[vue-3d-model](https://www.npmjs.com/package/vue-3d-model?activeTab=readme)  
+
+Q: ["Uncaught TypeError: Cannot read properties of undefined (reading 'extend')" when using vue-3d-model package](https://stackoverflow.com/questions/74567090/uncaught-typeerror-cannot-read-properties-of-undefined-reading-extend-whe)
+I upgraded the vue-3d-model version to 2.0.0 and the problem was fixed.  
+`yarn upgrade vue-3d-model@2.0.0-alpha.4`
+
 ## gh-pages
 
 [![NPM](https://nodei.co/npm/gh-pages.png?downloads=true&stars=true)](https://nodei.co/npm/gh-pages/)
