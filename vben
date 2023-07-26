@@ -1,0 +1,3 @@
+Q: [bad CPU type in executable: node](https://stackoverflow.com/questions/71122488/zsh-bad-cpu-type-in-executable-node)
+
+`softwareupdate --install-rosetta`
