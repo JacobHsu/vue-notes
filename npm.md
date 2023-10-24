@@ -121,7 +121,10 @@ package.json
 
 [![NPM](https://nodei.co/npm/vue-multiselect.png?downloads=true&stars=true)](https://nodei.co/npm/vue-multiselect/)
 
-[![NPM](https://nodei.co/npm/vuejs-datepicker.png?downloads=true&stars=true)](https://nodei.co/npm/vuejs-datepicker/)
+[![NPM](https://nodei.co/npm/vuejs-datepicker.png?downloads=true&stars=true)](https://nodei.co/npm/vuejs-datepicker/)  
+
+[![NPM](https://nodei.co/npm/vee-validate.png?downloads=true&stars=true)](https://nodei.co/npm/vee-validate/)  
+[VeeValidate](https://vee-validate.logaretm.com/v4/) Painless Vue forms
 
 ## Data
 
