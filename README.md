@@ -1,5 +1,8 @@
 # vue-notes
 
+[Vue SFC Playground](https://play.vuejs.org/)  
+[drag and drop](https://www.redblobgames.com/making-of/draggable/)
+
 ## Vite
 
 [create](https://cn.vitejs.dev/guide/) 
